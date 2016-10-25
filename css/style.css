@@ -678,7 +678,7 @@ textarea.form-control-style {
   text-transform: uppercase;
 }
 .slogan {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 300;
   line-height: 28px;
 }
@@ -2258,7 +2258,7 @@ textarea.form-control-style {
     margin-left: 100px;
   }
   .email {
-    font-size: 20px;
+    font-size: 16px;
     margin-left: 100px;
   }
 }
@@ -2319,7 +2319,7 @@ textarea.form-control-style {
     margin-top: 0px;
   }
   .email {
-    font-size: 20px;
+    font-size: 16px;
     text-align: center;
   }
   .img-slider {
