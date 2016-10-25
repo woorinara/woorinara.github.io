@@ -1448,17 +1448,17 @@ textarea.form-control-style {
 }
 .section-reviews .user-image {
   background: #f0f4f7;
-  border-radius: 50%;
+  border-radius: 5%;
   float: left;
-  height: 140px;
-  margin-top: 32px;
+  height: 120px;
+  width: 120px;
+  margin-top: 62px;
   overflow: hidden;
-  width: 140px;
 }
 .section-reviews .user-image img {
-  border-radius: 50%;
-  height: 140px;
-  width: 140px;
+  border-radius: 5%;
+  height: 120px;
+  width: 120px;
 }
 .text-reviews {
   margin-left: 140px;
